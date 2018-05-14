@@ -49,8 +49,8 @@ Quá trình đặc tả phần mềm là lặp đi lặp lại các bước:
 ---
 ### Đặc tả
 #### Các yêu cầu khác (Additional Requirements)
-- Giàng buộc thiết kế (Design Constraints) 
-- Giàng buộc về môi trường(Environmental Constraints)
+- Ràng buộc thiết kế (Design Constraints) 
+- Ràng buộc về môi trường(Environmental Constraints)
 - Sở thích của khách hàng( Preference)
 
 ---
